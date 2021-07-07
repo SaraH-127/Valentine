@@ -2,12 +2,12 @@ body {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
     border-width: 20px;
     border-style: solid;
-    border-color: #fcd2d8;
+    border-color: mediumorchid;
     text-align: center;
 }
 
 a {
-    color: #ffffff;
+    color: red;
     text-decoration: none;
 }
 
@@ -20,7 +20,7 @@ a {
 .message {
     font-style: italic;
     font-size: 36px;
-    color: #f12469;
+    color: darkorchid;
     margin-top: 50px;
 }
 
@@ -28,8 +28,8 @@ a {
     border-radius: 30px;
     height: 40px;
     width: 335px;
-    background-color: #f12469;
-    color: #ffffff;
+    background-color: darkorchid;
+    color: white;
     margin: 0 auto;
     padding-top: 15px;
     margin-bottom: 50px;
