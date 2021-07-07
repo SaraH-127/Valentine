@@ -1,3 +1,11 @@
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+    border-width: 20px;
+    border-style: solid;
+    border-color: #fcd2d8;
+    text-align: center;
+}
+
 .header {
     font-size: 68px;
     margin-top: 50px;
