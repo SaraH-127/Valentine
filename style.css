@@ -5,7 +5,10 @@
 }
 
 .message {
-    
+    font-style: italic;
+    font-size: 36px;
+    color: #f12469;
+    margin-top: 50px;
 }
 
 .link {
