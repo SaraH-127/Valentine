@@ -12,5 +12,12 @@
 }
 
 .link {
-
+    border-radius: 30px;
+    height: 40px;
+    width: 335px;
+    background-color: #f12469;
+    color: #ffffff;
+    margin: 0 auto;
+    padding-top: 15px;
+    margin-bottom: 50px;
 }
