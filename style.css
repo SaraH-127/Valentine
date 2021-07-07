@@ -6,6 +6,11 @@ body {
     text-align: center;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 .header {
     font-size: 68px;
     margin-top: 50px;
